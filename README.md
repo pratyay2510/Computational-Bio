@@ -44,3 +44,13 @@ Install all dependencies with:
 
 ```bash
 pip install numpy numba biopython psutil
+```
+
+## ▶️ How to Run
+
+After installing the required packages, you can run the three-way MSA algorithm by executing the script from the command line.  
+**Example:**
+
+```bash
+python MSA.py
+```
